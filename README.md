@@ -49,7 +49,3 @@ Perfect beginner-level DevOps CI/CD practice. 🚀
 
 ---
 
-## 🙌 Author
-
-**Rohit Jadhav**  
-Simple Java + Jenkins CI/CD Demo
